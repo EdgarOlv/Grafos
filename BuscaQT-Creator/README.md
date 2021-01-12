@@ -1,6 +1,6 @@
 # Busca em Grafos com Interface
 
-![Imagem](print.png)
+![Imagem](Print.png)
 
 Implementação de busca em caminhos utilizando grafos. Sendo possivel a nalise de grafos
 
