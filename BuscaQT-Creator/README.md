@@ -1,5 +1,6 @@
 # Busca em Grafos com Interface
 
+![Imagem](print.png)
 
 Implementação de busca em caminhos utilizando grafos. Sendo possivel a nalise de grafos
 
@@ -10,6 +11,8 @@ no QT Creator.
 Para a utilização, abra um grafo em txt cliando no botão "Buscar Grafo", como na pasta 
 
 "Material para Busca" e tenha como retorno o caminho disponivel, e o custo do caminho.
+
+
 
 
 
